@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\Commander.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\Commander.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\Commander.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\Commander.exe
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\Commander.deps.json
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\Commander.runtimeconfig.json
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\Commander.runtimeconfig.dev.json
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\Commander.dll
+C:\Users\hp\Documents\Github\Commander\bin\Debug\netcoreapp3.1\Commander.pdb
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\staticwebassets\Commander.StaticWebAssets.Manifest.cache
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\staticwebassets\Commander.StaticWebAssets.xml
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\Commander.dll
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\Commander.pdb
+C:\Users\hp\Documents\Github\Commander\obj\Debug\netcoreapp3.1\Commander.genruntimeconfig.cache
