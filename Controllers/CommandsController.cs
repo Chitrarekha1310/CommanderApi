@@ -5,8 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Commander.Controllers
 {
-    //Route api/controller
+     //Route api/controller
     [Route("api/commands")]
+    
     [ApiController]
     public class CommandsController : ControllerBase
     {
@@ -19,7 +20,7 @@ namespace Commander.Controllers
             [HttpGet]
             public ActionResult <IEnumerable<Command>> GetAllCommands()
             {
-                var commands = _repository.GetAppCommands();
+                var commands = _repository.GetAllCommands();
                 return Ok(commands);
             }
 
